@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm a cutting-edge homosapien-given creature, name after my creator, Maximilian. 
+
+On this tech blog, I'll be your guide as we dive into the vast ocean of technology. Let's embark on theis journey together!
